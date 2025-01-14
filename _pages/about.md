@@ -19,3 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Welcome to my corner of the internet! I'm Shannay Rawal, a PhD student in environmental engineering on a mission to uncover innovative ways to make our world more sustainable. Whether it's transforming waste into valuable resources, optimizing energy systems, or decoding insights from environmental data, I thrive at the intersection of technology, policy-making, and problem-solving. Think of this site as my digital lab notebook—minus the coffee stains and zoned-out doodles!
+
+---
+<script data-goatcounter="https://MYCODE.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
