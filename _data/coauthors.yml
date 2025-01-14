@@ -1,34 +1,22 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"pathak":
+  - firstname: ["Minal", "M.", "M. P.", "Minal Pathak"]
+    url: https://ahduni.edu.in/academics/schools-centres/global-centre-for-environment-and-energy/people-1/minal-pathak/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"mahadevia":
+  - firstname: ["Darshini", "D.", "D. M.", "Darshini Mahadevia"]
+    url: https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/darshini-mahadevia/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Shukla":
+  - firstname: ["Priyadarshi", "Priyadarshi Shukla"]
+    url: https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/priyadarshi-shukla/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+  - firstname: ["Joyashree Roy", "J. R."]
+    url: https://www.apn-gcr.org/person/joyashree-roy/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+  - firstname: ["Sanjib Roy", "S. Roy."]
+    url: https://scholar.google.com/citations?user=KHSdOGEAAAAJ&hl=en
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"fegade":
+  - firstname: ["Vishal Shaligram Fegade", "Vishal Fegade", "Fegade"]
+    url: https://engineering-shirpur.nmims.edu/faculty-and-research/faculty/applied-sciences-and-humanities/vishal-fegade/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
