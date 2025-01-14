@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.wvu.edu/'>Affiliations</a>. <a href='https://www.statler.wvu.edu/about/driving-directions'>Address</a>.
 
 profile:
   align: right
