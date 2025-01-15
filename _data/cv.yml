@@ -5,7 +5,6 @@
       value: Shannay Rawal
     - name: Languages
       value: English, Gujarati, Hindi, Spanish
-
 ##The following template can be modified to add Education, Work, etc. 
 #title: Graduate Research Associate
 #      institution: The Ohio State University
@@ -17,7 +16,6 @@
 #          contents:
 #            - Sub-description 1.
 #            - Sub-description 2.
-            
 - title: Education
   type: time_table
   contents:
@@ -28,19 +26,20 @@
         - title: Environmental Engineering
           contents:
             - Leveraging Data Science & Policy to Promote Sustainable Development Via Resource Recovery
-    
     - title: MS
       institution: The Ohio State University
       year: 2025
-     description:
+      description:
         - title: Civil, Environmental, and Geodetic Engineering
-    
+          contents:
+            - Techno-economic assessment of underground hydrogen storage in saline aquifers for seasonal energy storage
     - title: BTech
       institution: NMIMS University, India
       year: 2020
      description:
         - title: Mechanical Engineering
-
+          contents:
+            - Effect of fire retardancy materials in fibre-reinforced composite plate for false ceilings
 - title: Experience
   type: time_table
   contents:
