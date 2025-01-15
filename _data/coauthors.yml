@@ -10,13 +10,26 @@
   - firstname: ["Priyadarshi", "Priyadarshi Shukla"]
     url: https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/priyadarshi-shukla/
 
-  - firstname: ["Joyashree Roy", "J. R."]
+"Roy":
+- firstname: ["Joyashree Roy", "J. R."]
     url: https://www.apn-gcr.org/person/joyashree-roy/
 
-  - firstname: ["Sanjib Roy", "S. Roy."]
+- firstname: ["Sanjib Roy", "S. Roy."]
     url: https://scholar.google.com/citations?user=KHSdOGEAAAAJ&hl=en
 
 "fegade":
   - firstname: ["Vishal Shaligram Fegade", "Vishal Fegade", "Fegade"]
     url: https://engineering-shirpur.nmims.edu/faculty-and-research/faculty/applied-sciences-and-humanities/vishal-fegade/
+
+"Some":
+  - firstname: ["Shreya Some", "Shreya"]
+    url: https://sites.google.com/view/shreyasome/home
+
+"das":
+  - firstname: ["Nandini Das", "Nandini", "N. D."]
+    url: https://climateanalytics.org/team/nandini-das
+
+#"pathak":
+#  - firstname: ["Minal", "M.", "M. P.", "Minal Pathak"]
+#    url: https://ahduni.edu.in/academics/schools-centres/global-centre-for-environment-and-energy/people-1/minal-pathak/
 
