@@ -2,11 +2,10 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses taught at WVU
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<h>ENVE/CE 347: Introduction to Environmental Engineering, West Virginia University (Fall 2024) </h>
+Undergraduate laboratory experience in which students are introduced to key concepts relevant to environmental engineering. 
