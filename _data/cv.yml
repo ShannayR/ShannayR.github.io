@@ -2,38 +2,51 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Shannay Rawal
     - name: Languages
-      value: English, German
+      value: English, Gujarati, Hindi, Spanish
 
+##The following template can be modified to add Education, Work, etc. 
+#title: Graduate Research Associate
+#      institution: The Ohio State University
+#      year: 2022-2024
+#      description:
+#        - Description 1. <a href="url">link text</a>
+#        - Description 2.
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+            
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: West Virginia University
+      year: ongoing
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Environmental Engineering
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Leveraging Data Science & Policy to Promote Sustainable Development Via Resource Recovery
+    
+    - title: MS
+      institution: The Ohio State University
+      year: 2025
+     description:
+        - title: Civil, Environmental, and Geodetic Engineering
+    
+    - title: BTech
+      institution: NMIMS University, India
+      year: 2020
+     description:
+        - title: Mechanical Engineering
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Associate
+      institution: The Ohio State University
+      year: 2022-2024
       description:
         - Description 1.
         - Description 2.
@@ -41,57 +54,57 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: NSF EmPOWERment Fellow
+      institution: The Ohio State University
+      year: 2022-2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Techno-economic assessment of underground hydrogen storage in saline aquifers for seasonal energy storage.
+        - Integrating Marginal Abatement Cost projections for the mid-western US in the <a href= "https://drefews.osu.edu">DRFEWS project</a>, a regional Food-Energy-Water Systems model. 
+        - Scoping study for integrating Carbon Capture and Storage in <a href= "https://gcims.pnnl.gov/modeling/gcam-global-change-analysis-model">Global Change Analysis Model</a>, an Integrated Assessment Model. 
+    - title: Research Associate
+      institution: Global Centre for Environment and Energy, Ahmedabad University
+      year: 2020-2022
       description:
+      - title: Research
+        - Supported the <a href="https://www.ipcc.ch/working-group/wg3/#wg3-post_grid-6">Technical Support Unit (TSU)</a> of the <a href="https://www.ipcc.ch/working-group/wg3/">third Working Group (WGIII)</a> of the <a href="https://www.ipcc.ch/">Intergovernmental Panel on Climate Change (IPCC)</a>. 
+        - Led a funded research project on the Carbon Capture, Utilization, and Storage (CCUS) potential in Gujarat, India.
+        - Contributed to a project on assessing the urban climate actions of 110 smart cities in India.
+        - Working paper on assessing decarbonization pathways for India using <a href="https://www.unep.org/ndc/resources/toolkit-manual-and-guide/greenhouse-gas-abatement-cost-model-gacmo">The Greenhouse Gas Abatement Cost Model (GACMO)</a>.
+        - Surat’s potential decarbonization pathways as a part of the <a href="https://gtr.ukri.org/projects?ref=NE%2FS012834%2F1">Opportunities for Climate Mitigation and Sustainable Development (OPTIMISM) project</a>.
+      - title: Outreach
+        - Cohost for “Climactic Conversations” a climate change podcast with Stepwell Radio at Ahmedabad University.
+        - Organized COVID-19, Climate Change, and Cities_Learnings from the Pandemic, a regional workshop.
+        - Led the sole Indian partnership for <a href="https://www.bard.edu/news/events/solve-climate-by-2030-a-global-dialog">Global Climate Dialogs 2021_Solve Climate by 2030</a>, an outreach program hosted at <a href="https://www.bard.edu/">Bard College</a>.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+#- title: Honors and Awards
+#  type: time_table
+#  contents:
+#    - year: 1921
+#      items:
+#        - Nobel Prize in Physics
+#        - Matteucci Medal
+#    - year: 2029
+#      items:
+#        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Data-Driven Approaches to Sustainable Policy
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Leveraging analytical models and empirical research to shape policies integrating environmental, economic, and social considerations, fostering efficient resource use and long-term sustainability.
+        
+    - title: Integrating Policy, Data Science, and Stakeholder Collaboration
       items:
-        - Description 1.
-        - Description 2.
+        - Applying computational modeling and life cycle assessment to guide policy decisions, enhance access to renewable energy solutions, and strengthen partnerships among researchers, industries, and local communities for effective implementation.
+    
+    - title: Science-Based Policy Development for Sustainability
+      items:
+        - Utilizing quantitative methods and interdisciplinary research to craft policies that support sustainable resource management, resilience-building, and equitable environmental and economic practices.
+
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Cooking meatless recipes, Exploring unusual museums, collections, and oddities
