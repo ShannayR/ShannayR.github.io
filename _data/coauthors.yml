@@ -7,19 +7,19 @@
     url: https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/darshini-mahadevia/
 
 "Shukla":
-  - firstname: ["Priyadarshi", "Priyadarshi Shukla"]
+  - firstname: ["Priyadarshi", "Priyadarshi Shukla", "Priyadarshi Ramprasad Shukla", "P. R."]
     url: https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/priyadarshi-shukla/
 
-"Roy":
-- firstname: ["Joyashree Roy", "J. R."]
-  url: https://www.apn-gcr.org/person/joyashree-roy/
+"roy":
+  - firstname: ["Joyashree", "Joyashree Roy", "J. R."]
+    url: https://www.apn-gcr.org/person/joyashree-roy/
 
 "roy":
-- firstname: ["Sanjib Roy", "S. Roy."]
-  url: https://scholar.google.com/citations?user=KHSdOGEAAAAJ&hl=en
+  - firstname: ["Sanjib", "Sanjib Roy", "S. Roy."]
+    url: https://scholar.google.com/citations?user=KHSdOGEAAAAJ&hl=en
 
 "fegade":
-  - firstname: ["Vishal Shaligram Fegade", "Vishal Fegade", "Fegade"]
+  - firstname: ["Vishal Shaligram Fegade", "Vishal Fegade", "Vishal"]
     url: https://engineering-shirpur.nmims.edu/faculty-and-research/faculty/applied-sciences-and-humanities/vishal-fegade/
 
 "Some":
