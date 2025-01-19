@@ -14,6 +14,7 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
+      <p> <a href=websitecontact@shannayrawal.com>Email</a></p>
       <p>Engineering Sciences Building 531</p>
       <p>1306 Evansdale Drive</p>
       <p>Morgantown, WV 26506</p>
