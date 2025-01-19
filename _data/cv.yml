@@ -58,13 +58,15 @@
       institution: Global Centre for Environment and Energy, Ahmedabad University
       year: 2020-2022
       description:
-      - items: Research
+      - title: Research
+        contents: 
           - Supported the <a href="https://www.ipcc.ch/working-group/wg3/#wg3-post_grid-6">Technical Support Unit (TSU)</a> of the <a href="https://www.ipcc.ch/working-group/wg3/">third Working Group (WGIII)</a> of the <a href="https://www.ipcc.ch/">Intergovernmental Panel on Climate Change (IPCC)</a>. 
           - Led a funded research project on the Carbon Capture, Utilization, and Storage (CCUS) potential in Gujarat, India.
           - Contributed to a project on assessing the urban climate actions of 110 smart cities in India.
           - Working paper on assessing decarbonization pathways for India using <a href="https://www.unep.org/ndc/resources/toolkit-manual-and-guide/greenhouse-gas-abatement-cost-model-gacmo">The Greenhouse Gas Abatement Cost Model (GACMO)</a>.
           - Surat’s potential decarbonization pathways as a part of the <a href="https://gtr.ukri.org/projects?ref=NE%2FS012834%2F1">Opportunities for Climate Mitigation and Sustainable Development (OPTIMISM) project</a>.
       - items: Outreach
+        contents: 
           - Cohost for “Climactic Conversations” a climate change podcast with Stepwell Radio at Ahmedabad University.
           - Organized COVID-19, Climate Change, and Cities_Learnings from the Pandemic, a regional workshop.
           - Led the sole Indian partnership for <a href="https://www.bard.edu/news/events/solve-climate-by-2030-a-global-dialog">Global Climate Dialogs 2021_Solve Climate by 2030</a>, an outreach program hosted at <a href="https://www.bard.edu/">Bard College</a>.
