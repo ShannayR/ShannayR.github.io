@@ -1,5 +1,3 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Shannay Rawal is pursuing a PhD in Environmental Engineering at West Virginia University and is passionate about advancing sustainable solutions to global environmental challenges. Their research focuses on resource recovery, leveraging data science, life cycle modeling, and stakeholder engagement to promote sustainable, context-sensitive recovery of energy and nutrients from organic waste.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+With a background in Mechanical Engineering, Shannay is dedicated to bridging the gap between cutting-edge research and practical implementation of environmental technologies. Beyond the lab, they are committed to science communication, community engagement, and fostering interdisciplinary collaboration to drive impactful change.
