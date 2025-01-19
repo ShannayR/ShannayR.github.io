@@ -7,11 +7,11 @@
     url: https://ahduni.edu.in/academics/schools-centres/school-of-arts-and-sciences/faculty/darshini-mahadevia/
 
 "Shukla":
-  - firstname: ["Priyadarshi", "Priyadarshi Shukla", "Priyadarshi Ramprasad Shukla", "P. R."]
+  - firstname: ["Priyadarshi", "Priyadarshi Shukla", "Priyadarshi Ramprasad Shukla", "P. R.", "P."]
     url: https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/priyadarshi-shukla/
 
 "roy":
-  - firstname: ["Joyashree", "Joyashree Roy", "J. Roy."]
+  - firstname: ["Joyashree", "Joyashree Roy", "J. Roy.", "J."]
     url: https://www.apn-gcr.org/person/joyashree-roy/
 
 "roy":
@@ -23,11 +23,11 @@
     url: https://engineering-shirpur.nmims.edu/faculty-and-research/faculty/applied-sciences-and-humanities/vishal-fegade/
 
 "Some":
-  - firstname: ["Shreya Some", "Shreya", "S. Some."]
+  - firstname: ["Shreya Some", "Shreya", "S. Some.", "S."]
     url: https://sites.google.com/view/shreyasome/home
 
 "das":
-  - firstname: ["Nandini Das", "Nandini", "N. Das."]
+  - firstname: ["Nandini Das", "Nandini", "N. Das.", "N."]
     url: https://climateanalytics.org/team/nandini-das
 
 #"pathak":
