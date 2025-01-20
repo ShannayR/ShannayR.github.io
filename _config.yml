@@ -150,7 +150,7 @@ collections:
     output: true
     permalink: /:collection/:title/
   projects:
-    output: false
+    output: true
     permalink: /:collection/:title/
 
 announcements:
