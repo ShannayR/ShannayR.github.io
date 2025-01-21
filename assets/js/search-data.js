@@ -458,6 +458,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-data-management-and-security-for-student-researchers",
+          title: 'Data Management and Security for Student Researchers',
+          description: "CITI Training",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/citi_1/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
