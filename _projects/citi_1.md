@@ -41,7 +41,7 @@ Through this training, I achieved the following learning objectives:
 
 ## Certificate
 
-<iframe src="https://drive.google.com/file/d/1uFt2gKYDFeplSYdK24hh9WAKzv46qNXc/preview#view=Fit&toolbar=0&statusbar=0&messages=0&navpanes=0&scrollbar=0" width="1063px" height="1375px" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1uFt2gKYDFeplSYdK24hh9WAKzv46qNXc/preview#view=Fit&toolbar=0&statusbar=0&messages=0&navpanes=0&scrollbar=0" width="1375px" height="1063px" allow="autoplay"></iframe>
 
 ## Verification Links
 
