@@ -41,7 +41,7 @@ Through this training, I achieved the following learning objectives:
 
 ## Certificate
 
-{% pdf "../../assets/pdf/cert/CITI_DataManagementandSecurityforStudentResearchers_AnOverview.pdf" width=100% height=100% %}
+<iframe src="https://drive.google.com/file/d/1uFt2gKYDFeplSYdK24hh9WAKzv46qNXc/preview#view=Fit&toolbar=0&statusbar=0&messages=0&navpanes=0&scrollbar=0" width="100%" height="100%" allow="autoplay"></iframe>
 
 ## Verification Links
 
