@@ -39,17 +39,6 @@ related_publications: true
   <li><strong>Expiration</strong>: This certification does not expire</li>
 </ul>
 
-## Certificate
-<h2>Certificate</h2>
-<div class="row">
-   <div class="col-sm mt-3 mt-md-0">
-        {% pdf path="assets/pdf/CITI_Data Management and Security for Student Researchers_An Overview.pdf" title="Completion Certificate" class="pdf" %}
-    </div>
-</div>
-<div class="caption">
-    Completion certificate
-</div>
-
 <h2>Verification</h2>
 
 <p>To verify my completion of this CITI Program course, please refer to the following links:</p>
