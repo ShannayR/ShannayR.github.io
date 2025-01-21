@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Management and Security for Student Researchers: An Overview
+title: Data Management and Security for Student Researchers
 description: CITI Training
 img: assets/img/12.jpg
 importance: 1
