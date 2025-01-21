@@ -2,7 +2,7 @@
 layout: page
 title: Data Management and Security for Student Researchers
 description: CITI Training
-img: assets/img/12.jpg
+# img: assets/img/12.jpg
 importance: 1
 category: training
 date: 2025-01-15
@@ -32,6 +32,7 @@ related_publications: true
   <li>Developed the ability to assess scenarios where research data may require additional security protections</li>
 </ol>
 
+## Certification Details
 <h2>Certification Details</h2>
 
 <ul>
@@ -39,6 +40,11 @@ related_publications: true
   <li><strong>Expiration</strong>: This certification does not expire</li>
 </ul>
 
+## Certificate
+
+{% pdf "assets/pdf/CITI_Data Management and Security for Student Researchers_An Overview.pdf"%}
+
+## Verification Links
 <h2>Verification</h2>
 
 <p>To verify my completion of this CITI Program course, please refer to the following links:</p>
