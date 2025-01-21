@@ -41,7 +41,7 @@ related_publications: true
 
 ## Certificate
 
-<object data="..assets/pdf/cert/CITI_DataManagementandSecurityforStudentResearchers_AnOverview.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="cert/CITI_DataManagementandSecurityforStudentResearchers_AnOverview.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 <h2>Verification Links</h2>
 
