@@ -42,7 +42,7 @@ related_publications: true
 
 ## Certificate
 
-{% pdf "assets/pdf/CITI_Data Management and Security for Student Researchers_An Overview.pdf"%}
+{% pdf "assets/pdf/cert/CITI_DataManagementandSecurityforStudentResearchers_AnOverview.pdf" %}
 
 ## Verification Links
 <h2>Verification</h2>
