@@ -12,7 +12,7 @@ related_publications: true
 
 I completed the CITI Program course on "Data Management and Security for Student Researchers: An Overview" as part of my commitment to ethical and effective research practices. This training provided valuable insights into data management and security for student researchers at the graduate level.
 
-##Course Overview
+## Course Overview
 
 The course focused on essential aspects of data management and security in research, covering:
 
@@ -22,7 +22,7 @@ The course focused on essential aspects of data management and security in resea
   <li>Situations requiring enhanced data security measures</li>
 </ul>
 
-##Key Learning Objectives
+## Key Learning Objectives
 
 Through this training, I achieved the following learning objectives:
 
@@ -32,7 +32,7 @@ Through this training, I achieved the following learning objectives:
   <li>Developed the ability to assess scenarios where research data may require additional security protections</li>
 </ol>
 
-##Certification Details
+## Certification Details
 
 <ul>
   <li><strong>Certification Status</strong>: Completed</li>
@@ -43,7 +43,7 @@ Through this training, I achieved the following learning objectives:
 
 <embed src="cert/CITI_DataManagementandSecurityforStudentResearchers_AnOverview.pdf" width="100%" height="100%" type='application/pdf'>
 
-##Verification Links
+## Verification Links
 
 To verify my completion of this CITI Program course, please refer to the following links:
 
