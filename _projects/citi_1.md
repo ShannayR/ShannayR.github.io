@@ -32,7 +32,6 @@ related_publications: true
   <li>Developed the ability to assess scenarios where research data may require additional security protections</li>
 </ol>
 
-## Certification Details
 <h2>Certification Details</h2>
 
 <ul>
@@ -42,10 +41,9 @@ related_publications: true
 
 ## Certificate
 
-{% pdf "assets/pdf/cert/CITI_DataManagementandSecurityforStudentResearchers_AnOverview.pdf" %}
+<object data="..assets/pdf/cert/CITI_DataManagementandSecurityforStudentResearchers_AnOverview.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-## Verification Links
-<h2>Verification</h2>
+<h2>Verification Links</h2>
 
 <p>To verify my completion of this CITI Program course, please refer to the following links:</p>
 
@@ -54,4 +52,4 @@ related_publications: true
   <li><a href="https://www.citiprogram.org/verify/?kf95f9674-0532-4a08-baf0-a94e19ae5443-67305246">Completion Report</a></li>
 </ul>
 
-<p>This training has equipped me with essential knowledge and skills to conduct research responsibly, ensuring the protection and proper management of valuable research data throughout my academic and professional career.</p>
+<p>This training has equipped me with essential knowledge and skills to conduct research responsibly, ensuring the protection and proper management of valuable research data handled .</p>
