@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-",
+            },{id: "post-doughnut-economics",
       
-        title: "",
+        title: "Doughnut Economics",
       
-      description: "",
+      description: "An overview of the Doughnut Economics framework",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/2025-01-25-Doughnut-Economics/";
+          window.location.href = "/blog/2025/Doughnut-Economics/";
         
       },
     },{id: "news-a-simple-inline-announcement",
