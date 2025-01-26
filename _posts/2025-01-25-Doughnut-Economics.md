@@ -7,7 +7,6 @@ tags: Economics Sustainability
 categories: Bears, Beets, Breaking News
 toc:
   - name: Citations
-	name: footnotes
 ---
 
 Welcome back to *Bears, Beets, Breaking News #2* —your favorite sporadic newsletter, as unpredictable as a Dunder Mifflin staff meeting. Today, we're diving into a topic more complex than Michael Scott's management style: **Doughnut Economics**.
