@@ -41,7 +41,7 @@ Through this training, I worked towards the following learning objectives:
 
 ## Certificate
 
-<object width = "100%" height = "100%" type="application/pdf" data ="https://drive.google.com/file/d/1uFt2gKYDFeplSYdK24hh9WAKzv46qNXc/preview#&scrollbar=0&toolbar=0&navpanes=0">
+<object width = "1000px" height = "800px" type="application/pdf" data ="https://drive.google.com/file/d/1uFt2gKYDFeplSYdK24hh9WAKzv46qNXc/preview#&scrollbar=0&toolbar=0&navpanes=0">
 </object>
 
 <br>   
