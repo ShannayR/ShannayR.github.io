@@ -4,7 +4,7 @@ title: Doughnut Economics
 date: 2025-01-25 00:32:13
 description: An overview of the Doughnut Economics framework
 tags: Economics Sustainability 
-categories: "Bears, Beets, Breaking News"
+categories: ["Bears, Beets, Breaking News"]
 toc:
   - name: Citations
 ---
