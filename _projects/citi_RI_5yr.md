@@ -21,7 +21,7 @@ The courses focused on essential aspects of responsible research conduct, coveri
 </ol>
 
 
-###Biomedical Research Investigators: Human Subject Research
+### Biomedical Research Investigators: Human Subject Research
 This course provided training in ethical considerations and regulations governing biomedical research. Key areas of focus included:
 <ol>
   <li>Principles of the Belmont Report.</li>
@@ -30,7 +30,7 @@ This course provided training in ethical considerations and regulations governin
   <li>Procedures for addressing unanticipated problems involving risks to subjects.</li>
 </ol>
 
-###Social & Behavioral Research Investigators: Human Subject Research
+### Social & Behavioral Research Investigators: Human Subject Research
 This course emphasized ethical practices in social and behavioral research, covering:
 <ol>
   <li>Privacy and confidentiality protections for human subjects.</li>
