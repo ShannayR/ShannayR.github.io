@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A noble spirit embiggens the smallest man",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -109,6 +109,11 @@ ninja.data = [{
           description: "CITI Training",
           section: "Projects",handler: () => {
               window.location.href = "/projects/citi_RI_5yr/";
+            },},{id: "projects-faa-part-107-unmanned-aerial-systems-uas-certification",
+          title: 'FAA Part 107 Unmanned Aerial Systems (UAS) certification',
+          description: "FAA",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/FAA_drone/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
