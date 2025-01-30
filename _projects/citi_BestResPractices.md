@@ -1,4 +1,4 @@
-	---
+---
 layout: page
 title: Best Practices for Global Research Partnerships
 description: CITI Training
