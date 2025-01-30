@@ -109,9 +109,9 @@ ninja.data = [{
           description: "CITI Training",
           section: "Projects",handler: () => {
               window.location.href = "/projects/citi_RI_5yr/";
-            },},{id: "projects-faa-part-107-unmanned-aerial-systems-uas-certification",
-          title: 'FAA Part 107 Unmanned Aerial Systems (UAS) certification',
-          description: "FAA",
+            },},{id: "projects-part-107-unmanned-aerial-systems-uas-certification",
+          title: 'Part 107 Unmanned Aerial Systems (UAS) certification',
+          description: "Federal Aviation Administration",
           section: "Projects",handler: () => {
               window.location.href = "/projects/FAA_drone/";
             },},{id: "projects-best-practices-for-global-research-partnerships",
