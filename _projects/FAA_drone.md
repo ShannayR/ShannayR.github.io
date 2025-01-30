@@ -1,7 +1,7 @@
 ---
 layout: page
-title: FAA Part 107 Unmanned Aerial Systems (UAS) certification 
-description: FAA 
+title: Part 107 Unmanned Aerial Systems (UAS) certification 
+description: Federal Aviation Administration
 importance: 1
 category: fun
 date: 2025-01-28
