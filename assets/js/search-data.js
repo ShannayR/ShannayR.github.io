@@ -114,6 +114,11 @@ ninja.data = [{
           description: "FAA",
           section: "Projects",handler: () => {
               window.location.href = "/projects/FAA_drone/";
+            },},{id: "projects-best-practices-for-global-research-partnerships",
+          title: 'Best Practices for Global Research Partnerships',
+          description: "CITI Training",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/citi_BestResPractices/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
