@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-doughnut-economics",
+            },{id: "post-filial-piety-in-the-context-of-rural-global-north-communities",
+      
+        title: "Filial Piety in the context of rural Global North communities",
+      
+      description: "Advancing Climate action in the rural Global North",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Filial-Piety/";
+        
+      },
+    },{id: "post-doughnut-economics",
       
         title: "Doughnut Economics",
       
