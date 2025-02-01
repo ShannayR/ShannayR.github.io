@@ -11,6 +11,8 @@ toc:
 
 Welcome back to *Bears, Beets, Breaking News #3* a newsletter that explores unexpected connections faster than Jim pranks Dwight. Today, we're diving into a nuanced exploration of social dynamics that's more intricate than an org chart at Dunder Mifflin.
 
+At its core, filial piety is like an unwritten family contract of care and respect. Imagine a social agreement where younger family members are expected to honor, support, and take care of their parents and older relatives—not just out of legal obligation, but from a deep sense of gratitude and moral responsibility. It's more than just helping mom and dad with chores or checking in occasionally; it's about actively ensuring their well-being, respecting their wisdom, and maintaining family harmony. Think of it as a multigenerational support system where care flows both ways: parents invest in their children's upbringing, and children later reciprocate by providing emotional, financial, and practical support as their parents age.
+
 ## Filial Piety: Not Just for Schrute Farms
 
 You might think filial piety is just about respecting your elders and helping out on the family beet farm, but there's more to it than that. A [recent study](https://pmc.ncbi.nlm.nih.gov/articles/PMC8850268/) has shown that filial piety, traditionally associated with Asian cultures, has some interesting applications in rural American settings.
