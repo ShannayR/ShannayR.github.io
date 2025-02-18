@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-",
+            },{id: "post-deconstructing-environmental-engineering-research-amp-58-a-hierarchy-of-philosophical-and-methodological-approaches",
       
-        title: "",
+        title: "Deconstructing Environmental Engineering Research&amp;#58; A Hierarchy of Philosophical and Methodological Approaches",
       
-      description: "",
+      description: "A comparative analysis of how ontological, epistemological, methodological, and method-specific choices shape stakeholder-inclusive environmental research",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/2025-02-01-Ontology-Epistemology/";
+          window.location.href = "/blog/2025/Ontology-Epistemology/";
         
       },
     },{id: "post-filial-piety-in-the-context-of-rural-global-north-communities",
