@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-filial-piety-in-the-context-of-rural-global-north-communities",
+            },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/2025-02-01-Ontology-Epistemology/";
+        
+      },
+    },{id: "post-filial-piety-in-the-context-of-rural-global-north-communities",
       
         title: "Filial Piety in the context of rural Global North communities",
       
