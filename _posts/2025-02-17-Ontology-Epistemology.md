@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deconstructing Environmental Engineering Research&#58; A Hierarchy of Philosophical and Methodological Approaches
+title: Deconstructing Environmental Engineering Research &#58; A Hierarchy of Philosophical and Methodological Approaches
 date: 2025-02-17 21:29:19
 description: A comparative analysis of how ontological, epistemological, methodological, and method-specific choices shape stakeholder-inclusive environmental research 
 tags: Methodological Sustainability Research
