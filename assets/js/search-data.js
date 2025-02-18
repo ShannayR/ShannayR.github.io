@@ -74,7 +74,7 @@ ninja.data = [{
               },
             },{id: "post-deconstructing-environmental-engineering-research-amp-58-a-hierarchy-of-philosophical-and-methodological-approaches",
       
-        title: "Deconstructing Environmental Engineering Research&amp;#58; A Hierarchy of Philosophical and Methodological Approaches",
+        title: "Deconstructing Environmental Engineering Research &amp;#58; A Hierarchy of Philosophical and Methodological Approaches",
       
       description: "A comparative analysis of how ontological, epistemological, methodological, and method-specific choices shape stakeholder-inclusive environmental research",
       section: "Posts",
