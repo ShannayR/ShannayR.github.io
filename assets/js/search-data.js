@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-deconstructing-environmental-engineering-research-amp-58-a-hierarchy-of-philosophical-and-methodological-approaches",
+            },{id: "post-the-dunning-kruger-effect-under-scrutiny-amp-58-a-debate-unfolds",
+      
+        title: "The Dunning-Kruger Effect Under Scrutiny &amp;#58; A Debate Unfolds",
+      
+      description: "Exploring the contentious debate surrounding a cognitive bias that challenges our self-perception",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/DKEffect/";
+        
+      },
+    },{id: "post-deconstructing-environmental-engineering-research-amp-58-a-hierarchy-of-philosophical-and-methodological-approaches",
       
         title: "Deconstructing Environmental Engineering Research &amp;#58; A Hierarchy of Philosophical and Methodological Approaches",
       
