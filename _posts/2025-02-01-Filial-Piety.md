@@ -36,7 +36,7 @@ In rural regions of the Global North, where centralized systems are often imprac
 
 <ul>
   <li><strong>Reciprocal Community Care</strong>: Just as children voluntarily support their parents out of gratitude, rural communities could foster a culture of voluntary maintenance and improvement of local infrastructure.</li>
-  <li></strong>Shared Responsibility</strong>: The authoritarian aspect of filial piety could translate into a more structured system of community duties for maintaining public systems.</li>
+  <li><strong>Shared Responsibility</strong>: The authoritarian aspect of filial piety could translate into a more structured system of community duties for maintaining public systems.</li>
   <li>Imagine a world where managing a septic system is as ingrained in rural culture as helping out on the family farm. It's not quite as exciting as a Dundies award ceremony, but it could revolutionize how we approach rural infrastructure.</li>
 </ul>
 
