@@ -152,6 +152,11 @@ ninja.data = [{
           description: "CITI Training",
           section: "Projects",handler: () => {
               window.location.href = "/projects/citi_BestResPractices/";
+            },},{id: "projects-from-poultry-waste-to-sustainable-solutions",
+          title: 'From Poultry Waste to Sustainable Solutions',
+          description: "My Journey in Environmental Engineering",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/WVU_Today/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
