@@ -9,7 +9,8 @@ related_publications: true
 ---
 
 I am thrilled to share that my research at West Virginia University (WVU) was recently featured in the university magazine, highlighting my work on transforming poultry manure into sustainable solutions. Here's a summary of the article and an inside look at my journey. 
-The magazine article can be accessed [here](https://wvutoday.wvu.edu/resources/turning-chicken-droppings-into-fertilizer-proves-to-be-fertile-field-of-research-for-wvu-environmental-engineering-student) 
+
+[Link to the magazine article](https://wvutoday.wvu.edu/resources/turning-chicken-droppings-into-fertilizer-proves-to-be-fertile-field-of-research-for-wvu-environmental-engineering-student) 
 
 ### Tackling a Big Question: "What Do We Do with All This Crap?"
 As a doctoral student originally from Ahmedabad, India, I’ve been working with WVU engineers and poultry farmers in West Virginia’s Eastern Panhandle to address a pressing environmental issue: managing livestock waste. Poultry manure, while commonly used as fertilizer, can lead to significant water pollution if overapplied. Excess nutrients from manure runoff into water bodies like the Chesapeake Bay can cause algal blooms, depleting oxygen levels and harming aquatic life.
