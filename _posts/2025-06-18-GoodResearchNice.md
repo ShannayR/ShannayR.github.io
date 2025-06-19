@@ -6,7 +6,9 @@ description:
 tags: Research Academia 
 categories: ["Bears, Beets, Breaking News"]
 related publications: true
-bibliography: 2025-06-18-GoodResearchNice.bib
+bibliography: 2025-06-18-GoodResearchNice.bib 
+toc: true
+  - name: Citations
 ---
 
 ## Why Good Research Should Try to Be Nice
