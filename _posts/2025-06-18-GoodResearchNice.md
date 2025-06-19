@@ -7,7 +7,14 @@ tags: Research Academia
 categories: ["Bears, Beets, Breaking News"]
 related publications: true
 bibliography: 2025-06-18-GoodResearchNice.bib 
-toc: true
+toc:
+  - name: Why Good Research Should Try to Be Nice
+  - name: The Exponential Growth of Research: More Papers Than We Can Handle
+  - name: From Science for Science's Sake to Science for Society's Sake
+  - name: Creating Offramps: Connecting Research to Society Without Reinventing the Wheel
+  - name: Reaching Critical Mass: The Power of Well-Intentioned Offramps
+  - name: The Ethics of Nice Research: A Responsibility, Not Just a Courtesy  
+  - name: Conclusion: The Case for Nice Research
   - name: Citations
 ---
 
@@ -52,3 +59,5 @@ Nice research acknowledges a responsibility to care for the society that nurture
 And just as the research hierarchy in environmental engineering connects ontology (the nature of reality) to practical methods, nice research connects abstract knowledge to concrete benefits. It recognizes that while quantitative and qualitative approaches differ in their philosophical foundations, they can complement each other to address complex challenges.
 By embedding kindness, accessibility, and societal relevance into our research practices, we create a virtuous cycle: research that is not only rigorous but also responsive to the needs and aspirations of the communities it serves. This approach doesn't diminish the value of fundamental research—it enhances it by ensuring that knowledge flows freely between academia and society, enriching both in the process.
 In the end, nice research isn't just about being nice, it's about being effective, ethical, and engaged with the world beyond academia <d-cite key="bird2014socially"></d-cite>. And in a time of exponential knowledge growth and complex global challenges, that's not just nice-it's necessary <d-cite key="schneegans2021unesco"></d-cite>.
+
+{% bibliography --2025-06-18-GoodResearchNice %} 
