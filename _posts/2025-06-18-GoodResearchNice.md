@@ -9,12 +9,12 @@ related publications: true
 bibliography: 2025-06-18-GoodResearchNice.bib 
 toc:
   - name: Why Good Research Should Try to Be Nice
-  - name: The Exponential Growth of Research: More Papers Than We Can Handle
+  - name: The Exponential Growth of Research
   - name: From Science for Science's Sake to Science for Society's Sake
-  - name: Creating Offramps: Connecting Research to Society Without Reinventing the Wheel
-  - name: Reaching Critical Mass: The Power of Well-Intentioned Offramps
-  - name: The Ethics of Nice Research: A Responsibility, Not Just a Courtesy  
-  - name: Conclusion: The Case for Nice Research
+  - name: Creating Offramps
+  - name: Reaching Critical Mass
+  - name: The Ethics of Nice Research
+  - name: Conclusion
   - name: Citations
 ---
 
