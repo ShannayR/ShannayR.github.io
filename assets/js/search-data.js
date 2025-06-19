@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-why-good-research-should-try-to-be-nice",
+            },{id: "post-",
       
-        title: "Why good research should try to be nice",
+        title: "",
       
       description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/GoodResearchNice/";
+          window.location.href = "/blog/2025/2025-06-18-GoodResearchNice/";
         
       },
     },{id: "post-the-dunning-kruger-effect-under-scrutiny-amp-58-a-debate-unfolds",
