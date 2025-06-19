@@ -83,17 +83,6 @@ ninja.data = [{
           window.location.href = "/blog/2025/GoodResearchNice/";
         
       },
-    },{id: "post-techno-optimism-in-environmental-discourse",
-      
-        title: "Techno-optimism in environmental discourse",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/TechnoOptimismEnv/";
-        
-      },
     },{id: "post-the-dunning-kruger-effect-under-scrutiny-amp-58-a-debate-unfolds",
       
         title: "The Dunning-Kruger Effect Under Scrutiny &amp;#58; A Debate Unfolds",
