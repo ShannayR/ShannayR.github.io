@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Why good research should try to be nice
-date: 2025-06-18 10:23:05
+date: 2025-06-18 10:36:05
 description: 
 tags: Research Academia 
 categories: ["Bears, Beets, Breaking News"]
 related publications: true
-toc:
-  - name: Citations
+citation: true
 ---
 
 ## Why Good Research Should Try to Be Nice
