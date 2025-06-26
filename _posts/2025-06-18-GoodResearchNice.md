@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title: Why good research should try to be nice
 date: 2025-06-18 10:36:05
 description: 
@@ -60,4 +60,3 @@ And just as the research hierarchy in environmental engineering connects ontolog
 By embedding kindness, accessibility, and societal relevance into our research practices, we create a virtuous cycle: research that is not only rigorous but also responsive to the needs and aspirations of the communities it serves. This approach doesn't diminish the value of fundamental research—it enhances it by ensuring that knowledge flows freely between academia and society, enriching both in the process.
 In the end, nice research isn't just about being nice, it's about being effective, ethical, and engaged with the world beyond academia <d-cite key="bird2014socially"></d-cite>. And in a time of exponential knowledge growth and complex global challenges, that's not just nice-it's necessary <d-cite key="schneegans2021unesco"></d-cite>.
 
-{% bibliography --2025-06-18-GoodResearchNice %} 
