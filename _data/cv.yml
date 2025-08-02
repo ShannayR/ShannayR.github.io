@@ -73,30 +73,32 @@
 
 
 - title: Fellowships and Awards
- type: time_table
- contents:
-   - year: 2025
-     items:
-       - Honorable Mention - WVU AI Symposium Poster Competition
-   - year: 2025-2026
-     items:
-       - Gary & Lisa Christopher Fellow, West Virginia University
+  type: time_table
+  contents:
+    - year: 2025-2026
+      items:
+        - Gary & Lisa Christopher Fellow, West Virginia University
+        
+    - year: 2025
+      items:
+        - Honorable Mention - WVU AI Symposium Poster Competition
 #    - year: 2025
 #      items:
 #        - Max Planck Medal
 
 
 - title: Conferences and Presentations
- type: time_table
- contents:
-   - type: Oral Presentations
-     - event: QUAD-AI ENGAGE Workshop 2025 on AI and Digital Agriculture 
-       title: Enhancing Circularity and Resource Recovery through Data-Driven Nutrient Management Planning in Rural West Virginia
-       date: 2025-06-16
-   - type: Poster Presentations
-     - event: WVU AI Symposium (AI in Action: Navigating Challenges and Opportunities Across Domains)
-       title: Adaptive AI-Driven Approaches for Advancing Poultry Waste Nutrient Management in West Virginia
-       date: 2025-05-01
+  type: time_table
+  contents:
+    - type: Oral Presentations
+      event: QUAD-AI ENGAGE Workshop 2025 on AI and Digital Agriculture 
+      title: Enhancing Circularity and Resource Recovery through Data-Driven Nutrient Management Planning in Rural West Virginia
+      date: 2025-06-16
+      
+    - type: Poster Presentations
+      event: WVU AI Symposium (AI in Action: Navigating Challenges and Opportunities Across Domains)
+      title: Adaptive AI-Driven Approaches for Advancing Poultry Waste Nutrient Management in West Virginia
+      date: 2025-05-01
 
 
 - title: Academic Interests
