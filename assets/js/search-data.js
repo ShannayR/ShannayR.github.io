@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-why-good-research-should-try-to-be-nice",
+            },{id: "post-pre-war-steel-and-pre-ai-content",
+      
+        title: "Pre-War Steel and Pre-AI Content",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/PreWar-PreAI/";
+        
+      },
+    },{id: "post-why-good-research-should-try-to-be-nice",
       
         title: "Why good research should try to be nice",
       
