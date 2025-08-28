@@ -73,7 +73,7 @@
 
 
 - title: Fellowships and Awards
-  type: time_table
+  type: nested_list
   contents:
     - year: 2025-2026
       items:
@@ -88,11 +88,11 @@
     - type: "Oral Presentations"
       title: "Enhancing Circularity and Resource Recovery through Data-Driven Nutrient Management Planning in Rural West Virginia"
       contents: 
-        "QUAD-AI ENGAGE Workshop 2025 on AI and Digital Agriculture [June 16-17, 2025]"
+        - "QUAD-AI ENGAGE Workshop 2025 on AI and Digital Agriculture [June 16-17, 2025]"
     - type: "Poster Presentations"
       title: "Adaptive AI-Driven Approaches for Advancing Poultry Waste Nutrient Management in West Virginia"
       contents: 
-        "WVU AI Symposium (AI in Action: Navigating Challenges and Opportunities Across Domains) [May 01, 2025]"
+        - "WVU AI Symposium (AI in Action: Navigating Challenges and Opportunities Across Domains) [May 01, 2025]"
 
 
 
