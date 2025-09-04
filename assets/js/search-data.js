@@ -179,6 +179,11 @@ ninja.data = [{
           description: "My Journey in Environmental Engineering",
           section: "Projects",handler: () => {
               window.location.href = "/projects/WVU_Today/";
+            },},{id: "projects-streamline-your-presentation-workflow",
+          title: 'Streamline Your Presentation Workflow',
+          description: "Markdown to PowerPoint in Seconds",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/MDtoPPT/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
