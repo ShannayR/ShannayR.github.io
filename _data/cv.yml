@@ -72,23 +72,36 @@
           - Led the sole Indian partnership for <a href="https://www.bard.edu/news/events/solve-climate-by-2030-a-global-dialog">Global Climate Dialogs 2021_Solve Climate by 2030</a>, an outreach program hosted at <a href="https://www.bard.edu/">Bard College</a>.
 
 
-awards:
-  - title: Gary & Lisa Christopher Fellow
-    organization: West Virginia University
-    year: 2025-2026
-  - title: Honorable Mention - WVU AI Symposium Poster Competition
-    organization: West Virginia University
-    year: 2025
 
-presentations:
-  - type: Oral
-    title: Enhancing Circularity and Resource Recovery through Data-Driven Nutrient Management Planning in Rural West Virginia
-    venue: QUAD-AI ENGAGE Workshop 2025 on AI and Digital Agriculture
-    date: 2025-06-16
-  - type: Poster
-    title: Adaptive AI-Driven Approaches for Advancing Poultry Waste Nutrient Management in West Virginia
-    venue: WVU AI Symposium
-    date: 2025-05-01
+- title: Fellowships and Awards
+  type: nested_list
+  contents:
+    - title: Gary & Lisa Christopher Fellow
+      organization: West Virginia University
+      year: 2025-2026
+    - title: Honorable Mention - WVU AI Symposium Poster Competition
+      organization: West Virginia University
+      year: 2025
+
+- title: Presentations
+  type: time_table
+  contents:
+    - type: "Oral Presentations"
+      title: "Enhancing Circularity and Resource Recovery through Data-Driven Nutrient Management Planning in Rural West Virginia"
+      contents: 
+        - "QUAD-AI ENGAGE Workshop 2025 on AI and Digital Agriculture [June 16-17, 2025]"
+    - type: "Poster Presentations"
+      title: "Adaptive AI-Driven Approaches for Advancing Poultry Waste Nutrient Management in West Virginia"
+      contents: 
+        - "WVU AI Symposium (AI in Action: Navigating Challenges and Opportunities Across Domains) [May 01, 2025]"
+    - type: "Poster Presentations"
+      title: "Undergraduate Research Mentorship Pathways to Promote Collaborative Environmental-AI models"
+      contents: 
+        - "WVU Statler All Voices As One 2025 (Student Teaching and Research Poster Presentation) [Oct 23, 2025]"
+    - type: "Poster Presentations"
+      title: "Undergraduate Research Mentorship Pathways to Promote Collaborative Environmental-AI models"
+      contents: 
+        - "Mountain State Cyber Summit 2025 (Student Teaching and Research Poster Presentation) [Nov 12, 2025]"
 
 - title: Academic Interests
   type: nested_list
