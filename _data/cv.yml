@@ -78,27 +78,35 @@
   contents:
     - year: 2025-2026
       title: Gary & Lisa Christopher Fellow
-      organization: West Virginia University
+      items:
+        - West Virginia University
       
     - year: 2025
       title: Honorable Mention - WVU AI Symposium Poster Competition
-      organization: West Virginia University
+      items:
+        - West Virginia University
 
 - title: Presentations
   type: time_table
   contents:
-    - title: "Oral Presentation | Enhancing Circularity and Resource Recovery through Data-Driven Nutrient Management Planning in Rural West Virginia"
+    - title: "Oral | Enhancing Circularity and Resource Recovery through Data-Driven Nutrient Management Planning in Rural West Virginia"
       items: 
-        - "QUAD-AI ENGAGE Workshop 2025 on AI and Digital Agriculture [June 16-17, 2025]"
-    - title: "Poster Presentation | Adaptive AI-Driven Approaches for Advancing Poultry Waste Nutrient Management in West Virginia"
+        - QUAD-AI ENGAGE Workshop 2025 on AI and Digital Agriculture
+        - June 16-17, 2025
+    - title: "Poster | Adaptive AI-Driven Approaches for Advancing Poultry Waste Nutrient Management in West Virginia"
       items: 
-        - "WVU AI Symposium (AI in Action: Navigating Challenges and Opportunities Across Domains) [May 01, 2025]"
-    - title: "Poster Presentation | Undergraduate Research Mentorship Pathways to Promote Collaborative Environmental-AI models"
+        - "WVU AI Symposium AI in Action: Navigating Challenges and Opportunities Across Domains"
+        - May 01, 2025
+    - title: "Poster | Undergraduate Research Mentorship Pathways to Promote Collaborative Environmental-AI models"
       items: 
-        - "WVU Statler All Voices As One 2025 (Student Teaching and Research Poster Presentation) [Oct 23, 2025]"
-    - title: "Poster Presentation | Undergraduate Research Mentorship Pathways to Promote Collaborative Environmental-AI models"
+        - WVU Statler All Voices As One 2025 
+        - Student Teaching and Research Poster Presentation
+        - Oct 23, 2025
+    - title: "Poster | Undergraduate Research Mentorship Pathways to Promote Collaborative Environmental-AI models"
       items: 
-        - "Mountain State Cyber Summit 2025 (Student Teaching and Research Poster Presentation) [Nov 12, 2025]"
+        - Mountain State Cyber Summit 2025 
+        - Student Teaching and Research Poster Presentation 
+        - Nov 12, 2025
 
 - title: Academic Interests
   type: nested_list
