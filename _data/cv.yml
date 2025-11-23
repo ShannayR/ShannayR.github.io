@@ -40,6 +40,7 @@
         - title: Mechanical Engineering
           contents:
            - Effect of fire retardancy materials in fibre-reinforced composite plate for false ceilings
+
 - title: Experience
   type: time_table
   contents:
@@ -71,8 +72,6 @@
           - Organized COVID-19, Climate Change, and Cities_Learnings from the Pandemic, a regional workshop.
           - Led the sole Indian partnership for <a href="https://www.bard.edu/news/events/solve-climate-by-2030-a-global-dialog">Global Climate Dialogs 2021_Solve Climate by 2030</a>, an outreach program hosted at <a href="https://www.bard.edu/">Bard College</a>.
 
-
-
 - title: Fellowships and Awards
   type: time_table
   contents:
@@ -89,25 +88,28 @@
 - title: Presentations
   type: time_table
   contents:
-    - title: "Oral | Enhancing Circularity and Resource Recovery through Data-Driven Nutrient Management Planning in Rural West Virginia"
+    - year: June 2025  
+      title: "Oral | Enhancing Circularity and Resource Recovery through Data-Driven Nutrient Management Planning in Rural West Virginia"
       items: 
         - QUAD-AI ENGAGE Workshop 2025 on AI and Digital Agriculture
-        - June 16-17, 2025
-    - title: "Poster | Adaptive AI-Driven Approaches for Advancing Poultry Waste Nutrient Management in West Virginia"
-      items: 
-        - "WVU AI Symposium AI in Action: Navigating Challenges and Opportunities Across Domains"
-        - May 01, 2025
-    - title: "Poster | Undergraduate Research Mentorship Pathways to Promote Collaborative Environmental-AI models"
-      items: 
-        - WVU Statler All Voices As One 2025 
-        - Student Teaching and Research Poster Presentation
-        - Oct 23, 2025
-    - title: "Poster | Undergraduate Research Mentorship Pathways to Promote Collaborative Environmental-AI models"
+    
+    - year: Nov 2025
+      title: "Poster | Undergraduate Research Mentorship Pathways to Promote Collaborative Environmental-AI models"
       items: 
         - Mountain State Cyber Summit 2025 
         - Student Teaching and Research Poster Presentation 
-        - Nov 12, 2025
 
+    - year: Oct 2025
+      title: "Poster | Undergraduate Research Mentorship Pathways to Promote Collaborative Environmental-AI models"
+      items: 
+        - WVU Statler All Voices As One 2025 
+        - Student Teaching and Research Poster Presentation
+        
+    - year: May 2025
+      title: "Poster | Adaptive AI-Driven Approaches for Advancing Poultry Waste Nutrient Management in West Virginia"
+      items: 
+        - "WVU AI Symposium AI in Action: Navigating Challenges and Opportunities Across Domains"
+        
 - title: Academic Interests
   type: nested_list
   contents:
@@ -122,7 +124,6 @@
     - title: Science-Based Policy Development for Sustainability
       items:
         - Utilizing quantitative methods and interdisciplinary research to craft policies that support sustainable resource management, resilience-building, and equitable environmental and economic practices.
-
 
 - title: Other Interests
   type: list
