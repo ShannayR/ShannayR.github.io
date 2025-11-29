@@ -94,26 +94,39 @@
   type: time_table
   contents:
     - year: Jun 2025  
-      title: "Oral | Enhancing Circularity and Resource Recovery through Data-Driven Nutrient Management Planning in Rural West Virginia"
+      title: "Enhancing Circularity and Resource Recovery through Data-Driven Nutrient Management Planning in Rural West Virginia"
       items: 
         - QUAD-AI ENGAGE Workshop 2025 on AI and Digital Agriculture
-    
+
+- title: Posters
+  type: time_table
+  contents:  
     - year: Nov 2025
-      title: "Poster | Undergraduate Research Mentorship Pathways to Promote Collaborative Environmental-AI models"
+      title: "Undergraduate Research Mentorship Pathways to Promote Collaborative Environmental-AI models"
       items: 
         - Mountain State Cyber Summit 2025 
         - Student Teaching and Research Poster Presentation 
 
     - year: Oct 2025
-      title: "Poster | Undergraduate Research Mentorship Pathways to Promote Collaborative Environmental-AI models"
+      title: "Undergraduate Research Mentorship Pathways to Promote Collaborative Environmental-AI models"
       items: 
         - WVU Statler All Voices As One 2025 
         - Student Teaching and Research Poster Presentation
         
     - year: May 2025
-      title: "Poster | Adaptive AI-Driven Approaches for Advancing Poultry Waste Nutrient Management in West Virginia"
+      title: "Adaptive AI-Driven Approaches for Advancing Poultry Waste Nutrient Management in West Virginia"
       items: 
         - "WVU AI Symposium AI in Action: Navigating Challenges and Opportunities Across Domains"
+    
+    - year: Apr 2024
+      title: "Techno-Economic Assessment of Underground Hydrogen Storage in Saline Aquifers"
+      items: 
+        - "Signature Earth Day hosted by Environmental Professionals Network, School of Environment and Natural Resources, The Ohio State University"
+    
+    - year: Apr 2024
+      title: "The Challenges of Solar Grazing Development in Ohio Floodplains"
+      items: 
+        - "Signature Earth Day hosted by Environmental Professionals Network, School of Environment and Natural Resources, The Ohio State University"
         
 - title: Academic Interests
   type: nested_list
