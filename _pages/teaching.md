@@ -10,6 +10,7 @@ nav_order: 6
 <h2>Teaching experience</h2>
 <p>Teaching engagements at West Virginia University, organized by semester.</p>
 
+
 <h3>Fall 2025</h3>
 
 **Course:** CE 347: Introduction to Environmental Engineering – AI/ML module  
@@ -27,8 +28,8 @@ nav_order: 6
     <tr>
       <td>Module designer and co-instructor</td>
       <td>
-        Led a multi-session case study module on AI and machine learning applications in environmental engineering; 
-        designed problem-based learning activities and curated datasets; 
+        Designed and delivered a course module on AI and machine learning applications in environmental engineering; 
+        developed problem-based learning activities and curated datasets; 
         guided students in interpreting model outputs and reflecting on ethical implications; 
         developed and graded associated assignments to assess conceptual and applied understanding.
       </td>
@@ -36,15 +37,17 @@ nav_order: 6
     <tr>
       <td>Module instructor – Risk assessment</td>
       <td>
-        Designed and taught a short module introducing environmental risk assessment concepts;
+        Taught a short module introducing environmental risk assessment concepts;
         developed example problems and in-class delivery focused on exposure, dose–response, and uncertainty;
-        led discussions on regulatory context and communication of risk;
+        led discussions on regulatory context and communication of risk. 
       </td>
     </tr>
   </tbody>
 </table>
+---
 
 <h3>Spring 2025</h3>
+
 **Course:** ENVE/CE 347L: Introduction to Environmental Engineering Lab  
 **Department:** West Virginia University, Civil & Environmental Engineering  
 **Level:** Undergraduate lab  
@@ -69,3 +72,4 @@ nav_order: 6
     </tr>
   </tbody>
 </table>
+---
