@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Courses taught at WVU",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
