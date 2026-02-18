@@ -72,18 +72,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-pre-war-steel-and-pre-ai-content",
-      
-        title: "Pre-War Steel and Pre-AI Content",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/PreWar-PreAI/";
-        
-      },
-    },{id: "post-why-good-research-should-try-to-be-nice",
+            },{id: "post-why-good-research-should-try-to-be-nice",
       
         title: "Why good research should try to be nice",
       
@@ -179,11 +168,6 @@ ninja.data = [{
           description: "My Journey in Environmental Engineering",
           section: "Projects",handler: () => {
               window.location.href = "/projects/WVU_Today/";
-            },},{id: "projects-streamline-your-presentation-workflow",
-          title: 'Streamline Your Presentation Workflow',
-          description: "Markdown to PowerPoint in Seconds",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/MDtoPPT/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
