@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-<h2>Teaching experience</h2>
+<!-- <h2>Teaching experience</h2> -->
 <p>Teaching engagements at West Virginia University, organized by semester.</p>
 
 

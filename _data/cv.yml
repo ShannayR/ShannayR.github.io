@@ -45,6 +45,14 @@
   type: time_table
   contents:
     - title: Graduate Research Associate
+      institution: West Virginia University
+      year: 2025-
+    - title: Graduate Teaching Associate
+      institution: West Virginia University
+      year: Spring 2025
+      description:
+        Details on my <a href= "https://shannayrawal.com/teaching">teaching page</a>
+    - title: Graduate Research Associate
       institution: The Ohio State University
       year: 2022-2024
       description:
@@ -78,7 +86,12 @@
     - year: 2025-2026
       title: Gary & Lisa Christopher Fellow
       items:
-        - West Virginia University
+        - Statler College of Engineering, West Virginia University
+    - year: 2025-2026
+      title: Wadsworth Fellow
+      items:
+        - Statler College of Engineering, West Virginia University
+
       
     - year: 2025
       title: Honorable Mention - WVU AI Symposium Poster Competition
@@ -90,9 +103,13 @@
       items:
         - Summer trainee and PhD fellow at <a href="https://web.archive.org/web/20240522123102/https://energyfuture.osu.edu/shannay-rawal#">Ohio State University</a>. 
 
-- title: Presentations
+- title: Presentations and Lectures
   type: time_table
   contents:
+    - year: Feb 2026  
+      title: "Water Systems at the Rural-Agricultural Interface: An Integrated Assessment Framework for Infrastructure Planning"
+      items: 
+        - American Water Works Association at West Virginia University
     - year: Jun 2025  
       title: "Enhancing Circularity and Resource Recovery through Data-Driven Nutrient Management Planning in Rural West Virginia"
       items: 
