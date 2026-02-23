@@ -168,6 +168,11 @@ ninja.data = [{
           description: "My Journey in Environmental Engineering",
           section: "Projects",handler: () => {
               window.location.href = "/projects/WVU_Today/";
+            },},{id: "projects-water-systems-at-the-rural-agricultural-interface",
+          title: 'Water Systems at the Rural-Agricultural Interface',
+          description: "An Integrated Assessment Framework for Infrastructure Planning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/AWWA/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
