@@ -84,13 +84,13 @@
   type: time_table
   contents:
     - year: 2025-2026
-      title: Gary & Lisa Christopher Fellow
+      title: Gary & Lisa Christopher Fellowship
       items:
         - Statler College of Engineering, West Virginia University
     - year: 2025-2026
-      title: Wadsworth Fellow
+      title: Wadsworth Fellowship
       items:
-        - Statler College of Engineering, West Virginia University
+        - Department of Civil and Environmental Engineering, West Virginia University
 
       
     - year: 2025
@@ -149,6 +149,22 @@
       title: "The Challenges of Solar Grazing Development in Ohio Floodplains"
       items: 
         - "Signature Earth Day hosted by Environmental Professionals Network, School of Environment and Natural Resources, The Ohio State University"
+
+- title: Service
+  type: nested_list
+  contents:
+    - year: 2026-28
+      title: Board Member
+      items:
+        - <a href="https://wvcip.org/">West Virginia Council of International Professionals</a> 
+    - year: 2026
+      title: Mentor
+      items:
+        -  <a href="https://www.cleanwaterscience.org/programs/mentorship-program"> Clean Water Science Network (CWSN) </a>
+    - year: 2026
+      title: Project Advisory Committee (PAC) volunteer
+      items:
+        -  <a href="https://www.waterrf.org/"> The Water Research Foundation (WRF) </a>
         
 - title: Academic Interests
   type: nested_list
