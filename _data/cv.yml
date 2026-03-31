@@ -106,15 +106,19 @@
 - title: Presentations and Lectures
   type: time_table
   contents:
+#    - year: May 2026  
+#      title: "Techno-economic decision frameworks to assess the service expansion potential of local water utility infrastructure (Platform)"
+#      items: 
+#        - 27th Triennial <a href="https://www.mi-water.org/borchardt-conference">Borchardt Conference</a>
     - year: Mar 2026  
       title: "Oh NaN! The saga of dealing with suppressed data in public datasets (Platform)"
       items: 
-        - Chesapeake Bay Foundation Science and Technology Advisory Committee CHANS Workshop
+        - Challenges and Opportunities in Operationalizing Coupled Human and Natural Systems Research in the Chesapeake Bay Watershed <a href="https://www.chesapeake.org/stac/events/challenges-and-opportunities-in-operationalizing-coupled-human-and-natural-systems-research-in-the-chesapeake-bay-watershed/">(Workshop)</a>
     - year: Mar 2026  
       title: "Environmental and Social Implications of AI-Driven Water Demand in Rural Appalachia (Online)"
       items: 
-        - American Chemical Society Spring 2026 Meeting
-    - year: Feb 2026  
+        -American Chemical Society <a href="https://acs.digitellinc.com/live/36/session/581434"> Spring 2026 Meeting </a>
+    - year: Feb 2026 
       title: "Water Systems at the Rural-Agricultural Interface: An Integrated Assessment Framework for Infrastructure Planning (Platform)"
       items: 
         - American Water Works Association at West Virginia University
@@ -126,6 +130,14 @@
 - title: Posters
   type: time_table
   contents:  
+    - year: Apr 2026
+      title: "Pathways to Resilience: Optimizing Water Utility Investment Strategies for Large-User Expansion Requests"
+      items: 
+        - Statler College of Engineering Research Week Poster Symposium (Spring 2026)
+      title: "A Specialized Systematic Review Protocol for Engineering and Technical Literature Synthesis _(presented by Caroline Damron, undergraduate mentee)_"
+      items: 
+        - Presented at the WVU Statler College of Engineering Research Week Poster Symposium (Spring 2026)
+
     - year: Nov 2025
       title: "Undergraduate Research Mentorship Pathways to Promote Collaborative Environmental-AI models"
       items: 
