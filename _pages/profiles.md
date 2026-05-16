@@ -29,9 +29,4 @@ profiles:
     image: Caroline_headshot.jpg
     content: about_caroline.md
     image_circular: false # crops the image to make it circular 
-    more_info: |
-		<details>
-			<summary>Click here to read about her research interests</summary>
-			<embed src="CarolineProjectSummary.pdf" type="application/pdf" width="100%" height="600px" />
-		</details>
 ---
