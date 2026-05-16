@@ -2,7 +2,7 @@
 layout: post
 title: Deconstructing Environmental Engineering Research &#58; A Hierarchy of Philosophical and Methodological Approaches
 date: 2025-02-17 21:29:19
-description: A comparative analysis of how ontological, epistemological, methodological, and method-specific choices shape stakeholder-inclusive environmental research 
+description: A comparative analysis of how ontological, epistemological, methodological, and method-specific choices shape stakeholder-inclusive environmental research
 tags: Methodological Sustainability Research
 categories: ["Bears, Beets, Breaking News"]
 toc:
@@ -11,7 +11,7 @@ toc:
 
 Hey there, fellow Proles!
 
-Welcome to the fourth edition of *Bears, Beets, Breaking News*—where we dive into topics more complex than Creed's tax returns and more fascinating than Kevin's understanding of numbers. Today, we're taking a break from the daily Prolefeed to explore the philosophical underpinnings of environmental engineering research.
+Welcome to the fourth edition of _Bears, Beets, Breaking News_—where we dive into topics more complex than Creed's tax returns and more fascinating than Kevin's understanding of numbers. Today, we're taking a break from the daily Prolefeed to explore the philosophical underpinnings of environmental engineering research.
 
 ## The Research Hierarchy: From Ontology to Methods in Environmental Engineering
 
@@ -24,7 +24,6 @@ At the top of the research hierarchy sits ontology, which deals with the nature 
 ### Epistemology: The Nature of Knowledge
 
 Epistemology concerns how we acquire knowledge and the relationship between the researcher and the subject of study (<i>[An invitation to qualitative research](https://us.sagepub.com/sites/default/files/upm-binaries/34087_Chapter1.pdf)</i>). Quantitative environmental research commonly aligns with a positivist epistemology, emphasizing objective measurements and the researcher's detachment from the subject. This approach is more evident in studies without a strong human connection to the data, like research that relies on sensor data or statistical analyses of environmental trends. On the other hand, qualitative research in our field often adopts an interpretivist epistemology, recognizing the researcher's role in interpreting stakeholder views and experiences. This is particularly relevant when conducting interviews or focus groups to understand community perceptions of environmental risks.
-
 
 ### Methodology: The Strategy for Knowledge Creation
 
@@ -39,7 +38,5 @@ The specific methods we use to collect and analyze data are at the base of the h
 Environmental engineering projects have the potential to benefit from combining quantitative and qualitative approaches. This allows us to combine the strengths of objective measurements with rich, contextual insights from stakeholders. For example, when assessing the impacts of a proposed dam, we might use quantitative methods to model hydrological changes and qualitative methods to understand community perceptions and concerns (<i>[Stakeholder Analysis in Environmental and Conservation Planning](https://www.amnh.org/content/download/158575/2593966/file/stakeholder-analysis-in-environmental-and-conservation-planning.pdf)</i>).
 
 More comprehensive and effective stakeholder-based environmental engineering studies can be designed by acknowledging progressive differences in the research hierarchy and their manifestation in quantitative and qualitative approaches. Adopting this approach enables us to address complex environmental challenges while considering the technical and social dimensions of sustainability.
-
-
 
 In the words of the immortal Michael Scott, "What is the most important thing for a company? Is it the cash flow? Is it the inventory? Nuh-uh. It's the people. The people."

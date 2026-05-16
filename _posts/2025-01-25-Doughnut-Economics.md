@@ -3,13 +3,13 @@ layout: post
 title: Doughnut Economics
 date: 2025-01-25 00:32:13
 description: An overview of the Doughnut Economics framework
-tags: Economics Sustainability 
+tags: Economics Sustainability
 categories: ["Bears, Beets, Breaking News"]
 toc:
   - name: Citations
 ---
 
-Welcome back to *Bears, Beets, Breaking News #2* —your favorite sporadic newsletter, as unpredictable as a Dunder Mifflin staff meeting. Today, we're diving into a topic more complex than Michael Scott's management style: **Doughnut Economics**.
+Welcome back to _Bears, Beets, Breaking News #2_ —your favorite sporadic newsletter, as unpredictable as a Dunder Mifflin staff meeting. Today, we're diving into a topic more complex than Michael Scott's management style: **Doughnut Economics**.
 
 ## Doughnut Economics: A Framework for Sustainable Development
 
@@ -46,14 +46,12 @@ This framework has gained traction internationally, influencing discussions acro
 
 ---
 
-## The Doughnut's Secret Recipe: Three Pillars of Sustainability 
+## The Doughnut's Secret Recipe: Three Pillars of Sustainability
 
 The three pillars of sustainability—**environmental, social, and economic**—are baked right into the Doughnut Economics model. The goal is to find balance and create systems that work harmoniously across these interconnected domains.
 
 ---
 
-That's all for now, folks! Remember, in the words of the great philosopher Michael Scott, *"I'm not superstitious, but I am a little stitious."*
-
+That's all for now, folks! Remember, in the words of the great philosopher Michael Scott, _"I'm not superstitious, but I am a little stitious."_
 
 For more information on Doughnut Economics, visit [Doughnut Economics Action Lab](https://doughnuteconomics.org/about-doughnut-economics). To learn about the planetary boundaries framework that informs the Doughnut's ecological ceiling, check out the [Stockholm Resilience Centre](https://www.stockholmresilience.org/research/planetary-boundaries.html).
-

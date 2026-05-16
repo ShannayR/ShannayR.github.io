@@ -4,16 +4,15 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Shannay
-middle_name: 
+middle_name:
 last_name: Rawal
 contact_note: >
   Reach me here!
-description: > # the ">" symbol means to ignore newlines until "footer_text:" # A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: > # the "\>" symbol means to ignore newlines until "footer_text:"
   Personal website: Shannay Rawal | WVU
 footer_text: >
-  A simple, whitespace theme for academics based on the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  
 keywords: shannay rawal, jekyll, academic-website, WVU, al-folio # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -36,13 +35,18 @@ repo_trophies:
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
+# External service URLs for repository page
+# To use a different instance or service for displaying GitHub stats and trophies,
+# update these URLs. These are used in the repository templates.
+external_services:
+  github_readme_stats_url: https://github-readme-stats.vercel.app
+  github_profile_trophy_url: https://github-profile-trophy.vercel.app
+
 # -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
-
-rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -52,6 +56,7 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
+posts_in_search: true
 bib_search: true
 
 # Dimensions
@@ -88,7 +93,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Bears, Beets, Breaking News # blog_name will be displayed in your blog page
-blog_description: Musings. Daydreams. Wishful thoughts. 
+blog_description: Musings. Daydreams. Wishful thoughts.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -111,7 +116,8 @@ giscus:
   strict: 1 # use strict identification mode
   reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
   input_position: bottom # whether to display input form below (bottom) or above (top) the comments
-  theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
+  dark_theme: dark # name of the dark color scheme (preferred works well with al-folio dark mode)
+  light_theme: light # name of the light color scheme (preferred works well with al-folio light mode)
   emit_metadata: 0
   lang: en
 
@@ -144,24 +150,16 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
+  books:
+    output: true
   news:
     defaults:
       layout: post
     output: true
-    permalink: /:collection/:title/
   projects:
     output: true
-    permalink: /:collection/:title/
-
-announcements:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  teachings:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -208,7 +206,9 @@ keep_files:
 
 # Plug-ins
 plugins:
+  - jekyll-3rd-party-libraries
   - jekyll-archives-v2
+  - jekyll-cache-bust
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
@@ -218,8 +218,9 @@ plugins:
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-regex-replace
-  - jekyll/scholar
+  - jekyll-scholar
   - jekyll-sitemap
+  - jekyll-socials
   - jekyll-tabs
   - jekyll-terser
   - jekyll-toc
@@ -242,7 +243,7 @@ sass:
 
 jekyll-minifier:
   compress_javascript: false # set to false since we are using terser as the js minifier
-  # exclude: ["robots.txt", "assets/js/search/*.js"]
+  exclude: ["robots.txt", "assets/js/search/*.js"]
 
 # -----------------------------------------------------------------------------
 # Terser
@@ -256,16 +257,15 @@ terser:
 # Jekyll Archives
 # -----------------------------------------------------------------------------
 
-jekyll-archives-v2:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-  layouts:
-    year: archive-year
-    tag: archive-tag
-    category: archive-category
-  permalinks:
-    year: "/blog/:year/"
-    tag: "/blog/tag/:name/"
-    category: "/blog/category/:name/"
+jekyll-archives:
+  posts:
+    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+    permalinks:
+      year: "/blog/:year/"
+      tags: "/blog/:type/:name/"
+      categories: "/blog/:type/:name/"
+  books:
+    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["Economics", "Sustainability", "Techno-Economic Assessment", "Lifecycle Assessment"] # these tags will be displayed on the front page of your blog
 display_categories: ["Bears, Beets, Breaking News", "productivity-tools"] # these categories will be displayed on the front page of your blog
@@ -643,9 +643,9 @@ jsonresume:
   - publications
   - projects
   - volunteer
-#  - awards
+  ##  - awards
   - certificates
-#  - skills
+  ##  - skills
   - languages
   - interests
-#  - references
+##  - references

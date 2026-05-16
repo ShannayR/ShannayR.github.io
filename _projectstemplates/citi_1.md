@@ -9,7 +9,6 @@ date: 2025-01-15
 related_publications: true
 ---
 
-
 I completed the CITI Program course on "Data Management and Security for Student Researchers: An Overview" to learn obtain a certification for ethical and effective research practices. This training provided insights into bset practices as a data management and security as a graduate student researcher.
 
 ## Course Overview
@@ -48,8 +47,7 @@ Through this training, I worked towards the following learning objectives:
 <br>   
 <br>   
 <br>   
-<br>    
-
+<br>
 
 ## Verification Links
 

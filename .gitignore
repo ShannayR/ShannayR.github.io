@@ -11,4 +11,4 @@ assets/libs/
 node_modules/
 vendor
 .idea
-_projects/FAA_WINGS.md
+.venv

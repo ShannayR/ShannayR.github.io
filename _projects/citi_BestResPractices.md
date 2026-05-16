@@ -8,7 +8,6 @@ date: 2025-01-29
 related_publications: true
 ---
 
-
 I completed the CITI Program course on "Best Practices for Global Research Partnerships: Benefits and Challenges" to obtain certification for ethical and effective research practices. This training provided insights into best practices for global research partnerships as a graduate student researcher.
 
 ## Course Overview

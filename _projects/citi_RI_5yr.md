@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Investigators (Human Subject Research) 
+title: Research Investigators (Human Subject Research)
 description: CITI Training
 importance: 1
 category: training
@@ -8,21 +8,22 @@ date: 2025-01-20
 related_publications: true
 ---
 
-
-I completed two CITI Program courses to obtain certifications on research practices in human subject research. 
+I completed two CITI Program courses to obtain certifications on research practices in human subject research.
 
 ## Course Overview
 
 The courses focused on essential aspects of responsible research conduct, covering:
+
 <ol>
   <li>Responsible Conduct of Research for Engineers</li>
   <li>Biomedical Responsible Conduct of Research</li>
   <li>Social and Behavioral Responsible Conduct of Research</li>
 </ol>
 
-
 ### Biomedical Research Investigators: Human Subject Research
+
 This course provided training in ethical considerations and regulations governing biomedical research. Key areas of focus included:
+
 <ol>
   <li>Principles of the Belmont Report.</li>
   <li>Informed consent processes.</li>
@@ -31,7 +32,9 @@ This course provided training in ethical considerations and regulations governin
 </ol>
 
 ### Social & Behavioral Research Investigators: Human Subject Research
+
 This course emphasized ethical practices in social and behavioral research, covering:
+
 <ol>
   <li>Privacy and confidentiality protections for human subjects.</li>
   <li>Assessing risks and applying safeguards in research design.</li>

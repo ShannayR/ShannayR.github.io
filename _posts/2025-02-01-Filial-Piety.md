@@ -2,14 +2,14 @@
 layout: post
 title: Filial Piety in the context of rural Global North communities
 date: 2025-02-01 00:31:15
-description: Advancing Climate action in the rural Global North 
+description: Advancing Climate action in the rural Global North
 tags: Behavioral Sustainability Community
 categories: ["Bears, Beets, Breaking News"]
 toc:
   - name: Citations
 ---
 
-Welcome back to *Bears, Beets, Breaking News #3* a newsletter that explores unexpected connections faster than Jim pranks Dwight. Today, we're diving into a nuanced exploration of social dynamics that's more intricate than an org chart at Dunder Mifflin.
+Welcome back to _Bears, Beets, Breaking News #3_ a newsletter that explores unexpected connections faster than Jim pranks Dwight. Today, we're diving into a nuanced exploration of social dynamics that's more intricate than an org chart at Dunder Mifflin.
 
 At its core, filial piety is like an unwritten family contract of care and respect. Imagine a social agreement where younger family members are expected to honor, support, and take care of their parents and older relatives—not just out of legal obligation, but from a deep sense of gratitude and moral responsibility. It's more than just helping mom and dad with chores or checking in occasionally; it's about actively ensuring their well-being, respecting their wisdom, and maintaining family harmony. Think of it as a multigenerational support system where care flows both ways: parents invest in their children's upbringing, and children later reciprocate by providing emotional, financial, and practical support as their parents age.
 
@@ -24,8 +24,7 @@ The study introduces the Dual Filial Piety Model (DFPM), which breaks down filia
   <li><strong>Authoritarian Filial Piety (AFP)</strong>: This involves obedience and fulfilling obligatory duties to parents.</li>
 </ul>
 
-
-Interestingly, the research found that RFP doesn't differ much across cultures, unlike AFP. 
+Interestingly, the research found that RFP doesn't differ much across cultures, unlike AFP.
 
 This suggests that the care and support of elderly parents in rural American households might have more in common with Asian cultures than we previously thought.
 
@@ -41,6 +40,7 @@ In rural regions of the Global North, where centralized systems are often imprac
 </ul>
 
 That's all for now, folks! Remember, in the words of the great philosopher Michael Scott,<br>
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Filial-Piety.png" class="img-fluid rounded z-depth-1"%}

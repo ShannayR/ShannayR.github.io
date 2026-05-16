@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Responsible Conduct of Research 
+title: Responsible Conduct of Research
 description: CITI Training
 importance: 1
 category: training
@@ -8,12 +8,12 @@ date: 2025-01-17
 related_publications: true
 ---
 
-
 I completed three CITI Program courses to obtain certifications for ethical and effective research practices. These trainings provided comprehensive insights into best practices for conducting research responsibly across various disciplines.
 
 ## Course Overview
 
 The courses focused on essential aspects of responsible research conduct, covering:
+
 <ol>
   <li>Responsible Conduct of Research for Engineers</li>
   <li>Biomedical Responsible Conduct of Research</li>
@@ -22,7 +22,7 @@ The courses focused on essential aspects of responsible research conduct, coveri
 
 ## Key Learning Objectives
 
-Through this training, I worked towards the following key modules: 
+Through this training, I worked towards the following key modules:
 
 <ul>
   <li>Authorship</li>

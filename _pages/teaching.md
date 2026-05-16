@@ -10,12 +10,11 @@ nav_order: 6
 <!-- <h2>Teaching experience</h2> -->
 <p>Teaching engagements at West Virginia University, organized by semester.</p>
 
-
 <h3>Fall 2025</h3>
 
 **Course:** CE 347: Introduction to Environmental Engineering – AI/ML module  
 **Department:** West Virginia University, Civil & Environmental Engineering  
-**Level:** Undergraduate core course  
+**Level:** Undergraduate core course
 
 <table>
   <thead>
@@ -50,7 +49,7 @@ nav_order: 6
 
 **Course:** ENVE/CE 347L: Introduction to Environmental Engineering Lab  
 **Department:** West Virginia University, Civil & Environmental Engineering  
-**Level:** Undergraduate lab  
+**Level:** Undergraduate lab
 
 <table>
   <thead>

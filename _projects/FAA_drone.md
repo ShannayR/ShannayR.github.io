@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Part 107 Unmanned Aerial Systems (UAS) certification 
+title: Part 107 Unmanned Aerial Systems (UAS) certification
 description: Federal Aviation Administration
 importance: 1
 category: fun
 date: 2025-01-28
 related_publications: true
 ---
-
 
 ## Soaring to New Heights: My Journey to Becoming an FAA-Certified Drone Pilot
 
@@ -22,6 +21,7 @@ My fascination with flight has been a lifelong passion. What started as wide-eye
 ### Beyond Recreational Limits
 
 One of the most exciting aspects of this certification is the expanded capabilities it provides. Unlike recreational drone flying, which comes with strict weight and operational restrictions, my new license allows me to:
+
 <ul>
   <li>Operate drones in more diverse environments</li>
   <li>Conduct professional aerial photography and videography</li>

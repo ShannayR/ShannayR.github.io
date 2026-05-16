@@ -4,7 +4,7 @@ title: Why good research should try to be nice
 date: 2025-06-18 10:36:05
 description:
 tags: Research Academia
-categories: ['Bears, Beets, Breaking News']
+categories: ["Bears, Beets, Breaking News"]
 related publications: true
 bibliography: 2025-06-18-GoodResearchNice.bib
 toc:
