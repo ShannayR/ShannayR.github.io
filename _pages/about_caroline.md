@@ -2,7 +2,7 @@ Caroline Damron is an undergraduate student researcher in Environmental Engineer
 
 Caroline has contributed to early-stage research on computational modeling of freight movement for non-time-sensitive goods in hilly terrain, where her work has included conceptualization, methodology, and analysis. Looking ahead, she plans to take a haitus for AY 2026-27 before  rejoining the research group during her master’s year, where she intends to further specialize in transportation modeling and its applications to complex, real-world environments. 
 
-#<details>
-#  <summary>Click here to read about her research interests</summary>
-#  <embed src="assets/pdf/CarolineProjectSummary.pdf" type="application/pdf" width="100%" height="600px" />
-#</details>
+<details>
+	<summary>Click here to read about her research interests</summary>
+	<embed src="assets/pdf/CarolineProjectSummary.pdf" type="application/pdf" width="100%" height="600px" />
+</details>
