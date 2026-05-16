@@ -10,7 +10,29 @@ nav_order: 6
 <!-- <h2>Teaching experience</h2> -->
 <p>Teaching engagements at West Virginia University, organized by semester.</p>
 
+<h3>Spring 2026</h3>
 
+**Course:** CE 347: Introduction to Environmental Engineering – AI/ML module  
+**Department:** West Virginia University, Civil & Environmental Engineering  
+**Level:** Undergraduate core course  
+
+<table>
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Main duties</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Module designer and co-instructor</td>
+      <td>
+        Designed and delivered a three-day instructional module on AI-augmented consulting practice in environmental engineering; developed the professional consulting framework, case studies containing embedded ethical conflicts, and three scaffolded prompt-engineering exercises of increasing complexity; created pre- and post-module survey instruments to measure learning outcomes at the cohort level; developed grading rubrics for the 3MT (three-minute thesis) presentation format assessing technical analysis, AI pipeline alignment, professional ethics, and delivery; facilitated the post-presentation panel debrief with invited practicing professionals.
+      </td>
+    </tr>
+  </tbody>
+</table>
+---
 <h3>Fall 2025</h3>
 
 **Course:** CE 347: Introduction to Environmental Engineering – AI/ML module  
