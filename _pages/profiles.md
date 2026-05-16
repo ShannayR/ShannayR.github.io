@@ -5,7 +5,7 @@ title: people
 description: #members of the lab or group
 nav: true
 nav_order: 7
-
+---
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
@@ -31,4 +31,9 @@ profiles:
     image: Caroline_headshot.jpg
     content: about_caroline.md
     image_circular: false # crops the image to make it circular 
+	more info: >
+	<details>
+		<summary>Click here to read about her research interests</summary>
+		<embed src="assets/pdf/CarolineProjectSummary.pdf" type="application/pdf" width="100%" height="600px" />
+	</details>
 ---
