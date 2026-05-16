@@ -4,5 +4,5 @@ Caroline has contributed to early-stage research on computational modeling of fr
 
 <details>
 	<summary>Click here to read about her research interests</summary>
-	<embed src="assets/pdf/CarolineProjectSummary.pdf" type="application/pdf" width="100%" height="600px" />
+	<embed src="CarolineProjectSummary.pdf" type="application/pdf" width="100%" height="600px" />
 </details>
