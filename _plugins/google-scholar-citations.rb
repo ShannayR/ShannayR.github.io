@@ -52,19 +52,11 @@ module Jekyll
 
           if !description_meta.empty?
             cited_by_text = description_meta[0]['content']
-            matches = cited_by_text.match(CITED_BY_REGEX)
-
-            if matches
-              citation_count = matches[1].sub(",", "").to_i
-            end
+            citation_count = extract_citation_count(cited_by_text)
 
           elsif !og_description_meta.empty?
             cited_by_text = og_description_meta[0]['content']
-            matches = cited_by_text.match(CITED_BY_REGEX)
-
-            if matches
-              citation_count = matches[1].sub(",", "").to_i
-            end
+            citation_count = extract_citation_count(cited_by_text)
           end
 
         citation_count = Helpers.number_to_human(citation_count, :format => '%n%u', :precision => 2, :units => { :thousand => 'K', :million => 'M', :billion => 'B' })
@@ -79,6 +71,13 @@ module Jekyll
 
       GoogleScholarCitationsTag::Citations[article_id] = citation_count
       return "#{citation_count}"
+    end
+
+    def extract_citation_count(cited_by_text)
+      matches = cited_by_text.match(CITED_BY_REGEX)
+      return 0 unless matches
+
+      matches[1].sub(",", "").to_i
     end
   end
 end
