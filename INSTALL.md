@@ -274,6 +274,19 @@ $ git fetch upstream
 $ git rebase v0.16.3
 ```
 
+### Streamlined upgrade flow for heavily customized sites
+
+If your site has custom content/pages/projects/publications/attachments, validate retention after rebasing:
+
+```bash
+$ python bin/verify_customizations_retained.py \
+    --upstream-base <old-upstream-tag-or-commit> \
+    --previous-ref <your-pre-rebase-branch-or-commit> \
+    --current-ref HEAD
+```
+
+This checks that files changed in your customized version (within content-focused paths) still exist after the update.
+
 If you have extensively customized a previous version, it might be trickier to upgrade.
 You can still follow the steps above, but `git rebase` may result in merge conflicts that must be resolved.
 See [git rebase manual](https://help.github.com/en/github/using-git/about-git-rebase) and how to [resolve conflicts](https://help.github.com/en/github/using-git/resolving-merge-conflicts-after-a-git-rebase) for more information.
