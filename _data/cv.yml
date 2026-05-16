@@ -106,10 +106,10 @@
 - title: Presentations and Lectures
   type: time_table
   contents:
-#    - year: May 2026  
-#      title: "Techno-economic decision frameworks to assess the service expansion potential of local water utility infrastructure (Platform)"
-#      items: 
-#        - 27th Triennial <a href="https://www.mi-water.org/borchardt-conference">Borchardt Conference</a>
+    - year: May 2026  
+      title: "Techno-economic decision frameworks to assess the service expansion potential of local water utility infrastructure (Platform)"
+      items: 
+        - 27th Triennial <a href="https://www.mi-water.org/borchardt-conference">Borchardt Conference</a>
     - year: Mar 2026  
       title: "Oh NaN! The saga of dealing with suppressed data in public datasets (Platform)"
       items: 
