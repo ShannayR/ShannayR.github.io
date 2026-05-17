@@ -6,5 +6,5 @@ Caroline has contributed to early-stage research on computational modeling of fr
 	<summary>Click here to read about her research interests!</summary>
 	<embed src="{{ '/assets/pdfs/CarolineProjectSummary.pdf' | relative_url }}" type="application/pdf" width="100%" height="600px" />
 	<br>
-	<a href="{{ '/assets/pdfs/CarolineProjectSummary.pdf' | relative_url }}" target="_blank">Download PDF</a>
+	<a href="{{ 'CarolineProjectSummary.pdf' | relative_url }}" target="_blank">Download PDF</a>
 </details>
