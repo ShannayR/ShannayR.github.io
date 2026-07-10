@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A noble spirit embiggens the smallest man
+description: A noble spirit <a href="https://www.bbc.com/news/newsbeat-43298229">embiggens</a> the smallest man
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [work, fun, training]
 horizontal: false
 ---
