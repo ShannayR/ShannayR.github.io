@@ -3,6 +3,15 @@ layout: page
 ---
 <div class="post">
   <article>
+    {% if page.group_photo %}
+      {% assign group_photo_path = page.group_photo | prepend: 'assets/img/' %}
+      <div class="group-photo text-center mb-4">
+        {% include figure.liquid loading="eager" path=group_photo_path class="img-fluid z-depth-1 rounded" alt=page.group_photo %}
+        {% if page.group_photo_caption %}
+          <p class="caption">{{ page.group_photo_caption }}</p>
+        {% endif %}
+      </div>
+    {% endif %}
     {% if page.profiles %}
       {% for profile in page.profiles %}
         <hr>

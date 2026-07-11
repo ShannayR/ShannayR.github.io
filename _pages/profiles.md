@@ -5,6 +5,7 @@ title: people
 description: #members of the lab or group
 nav: true
 nav_order: 2
+group_photo: Caroline_Shannay_Eva_GroupPic.jpg
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
