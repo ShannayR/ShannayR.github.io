@@ -2,6 +2,11 @@ source 'https://rubygems.org'
 
 gem 'jekyll'
 
+# Transitive dependencies pinned to a minimum patched version for known CVEs.
+# Remove the pin once the parent gem's own dependency floor catches up.
+gem 'json', '>= 2.19.9'      # CVE-2026-54696: heap buffer overflow when streaming to an IO
+gem 'nokogiri', '>= 1.19.4'  # latest security/hardening release in the 1.19.x line
+
 # Core plugins that directly affect site building
 group :jekyll_plugins do
     gem 'jekyll-3rd-party-libraries'
