@@ -27,6 +27,10 @@ profiles:
   #    <p>123 your address street</p>
   #    <p>Your City, State 12345</p>
   - align: left
+    image: Eva_headshot.jpeg
+    content: about_eva.md
+    image_circular: false # crops the image to make it circular
+  - align: left
     image: Caroline_headshot.jpg
     content: about_caroline.md
     image_circular: false # crops the image to make it circular 
