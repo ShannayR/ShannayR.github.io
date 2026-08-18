@@ -4,12 +4,13 @@ gem 'jekyll'
 
 # Transitive dependencies pinned to a minimum patched version for known CVEs.
 # Remove the pin once the parent gem's own dependency floor catches up.
-gem 'json', '>= 2.19.9'      # CVE-2026-54696: heap buffer overflow when streaming to an IO
+gem 'json', '>= 2.21.2'      # CVE-2026-71847: UAF in JSON::ResumableParser#partial_value
+                             # (supersedes the >= 2.19.9 pin for CVE-2026-54696)
+gem 'loofah', '>= 2.25.2'    # GHSA-9wjq-cp2p-hrgf, GHSA-5qhf-9phg-95m2, GHSA-8whx-365g-h9vv
 gem 'nokogiri', '>= 1.19.4'  # latest security/hardening release in the 1.19.x line
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
-    gem 'jekyll-3rd-party-libraries'
     gem 'jekyll-archives-v2'
     gem 'jekyll-cache-bust'
     gem 'jekyll-email-protect'
@@ -35,7 +36,13 @@ end
 
 # Gems for development or external data fetching (outside :jekyll_plugins)
 group :other_plugins do
-    gem 'css_parser'
+    # css_parser >= 3.0.0 fixes CVE-2026-53727 (SSRF / local file disclosure in
+    # read_remote_file). The fix was not backported to 1.x or 2.x. The gem
+    # jekyll-3rd-party-libraries was removed from :jekyll_plugins because its
+    # `css_parser (< 2.0)` ceiling blocked this upgrade; the vendored
+    # _plugins/download-3rd-party.rb provides the equivalent functionality.
+    # Requires Ruby >= 3.2 (CI runs 3.3.5 / 3.2.2).
+    gem 'css_parser', '>= 3.0.0'
     gem 'feedjira'
     gem 'httparty'
     gem 'observer'       # used by jekyll-scholar
